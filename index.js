@@ -4,9 +4,9 @@ const axios = require('axios');
 
 const client = new Discord.client();
 
-client.on('ready', => {
+client.on('ready',() => {
   console.log('Logged in as ${client.user.tag}!');
-})
+});
 
 client.on('message', async msg => {
   switch (msg.content) {
