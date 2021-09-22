@@ -1,0 +1,21 @@
+{
+  "name": "mememessiah",
+  "version": "0.0.1",
+  "description": "A sequal of the Meme God",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "discord.js": "^13.1.0",
+    "dotenv": "^10.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leopold Pitner",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "github.com/anonymous10137211/mememessiah"
+  }
+}
